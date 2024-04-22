@@ -1,0 +1,87 @@
+body {
+  overflow: hidden;
+}
+
+.home-layout {
+    display: flex; /* Use flexbox for side-by-side layout */
+    width: 100vw; /* Take up full viewport width */
+    height: 100vh; /* Take up full viewport height (optional) */
+  }
+
+.image-grid-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.filter-input {
+  width: 80%;
+  height: 10px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+  
+.image-grid-showcase {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two columns of equal width */
+    height: 90%; /* Set the maximum height for scrolling */
+    overflow-y: auto; /* Add vertical scrollbar when content overflows */
+  }
+
+.image-grid-container img {
+    max-width: 15vw;
+    margin:10px;
+  }
+
+  .image-grid-container img:hover {
+    transform: scale(1.1); /* Increase the scale slightly on hover */
+  }
+
+.image-preview {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 65vw;
+}
+
+.image-preview img {
+  max-height: 80%;
+}
+
+.image-preview button {
+  margin: 10px;
+  padding: 10px;
+}
+
+.start-draw {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.start-draw-center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.start-draw button {
+  padding: 10px;
+  font-size: 16px;
+  margin: 10px;
+}
+
+.start-draw img {
+  border: 2px solid black; /* Border style */
+  max-height: 100%;
+  height: auto;
+}
+
+
+
+
+
+
