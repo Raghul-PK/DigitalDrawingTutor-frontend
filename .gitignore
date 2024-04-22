@@ -1,36 +1,3 @@
 # Dependency directories
 /node_modules
 
-# Environment file
-.env
-
-# Build output
-/build
-/dist
-
-# Logs and debugging
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# Editor directories and files
-.idea
-.vscode
-*.suo
-*.ntvs*
-
-# IDE directories
-/.idea
-/.vscode
-
-# macOS
-.DS_Store
-
-# Temporary files
-*.tmp
-*.bak
-*~
-
-# Dependency directory used by tools like npm
-/.pnp
-.pnp.js

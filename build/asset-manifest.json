@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Raghul-PK/DigitalDrawingTutor-frontend.git/static/css/main.2b897839.css",
+    "main.js": "/Raghul-PK/DigitalDrawingTutor-frontend.git/static/js/main.1f386612.js",
+    "static/js/453.d855a71b.chunk.js": "/Raghul-PK/DigitalDrawingTutor-frontend.git/static/js/453.d855a71b.chunk.js",
+    "index.html": "/Raghul-PK/DigitalDrawingTutor-frontend.git/index.html",
+    "main.2b897839.css.map": "/Raghul-PK/DigitalDrawingTutor-frontend.git/static/css/main.2b897839.css.map",
+    "main.1f386612.js.map": "/Raghul-PK/DigitalDrawingTutor-frontend.git/static/js/main.1f386612.js.map",
+    "453.d855a71b.chunk.js.map": "/Raghul-PK/DigitalDrawingTutor-frontend.git/static/js/453.d855a71b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b897839.css",
+    "static/js/main.1f386612.js"
+  ]
+}
