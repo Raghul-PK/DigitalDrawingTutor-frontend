@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Raghul-PK/DigitalDrawingTutor-frontend/static/css/main.2b897839.css",
-    "main.js": "/Raghul-PK/DigitalDrawingTutor-frontend/static/js/main.5cbe87d2.js",
-    "static/js/453.d855a71b.chunk.js": "/Raghul-PK/DigitalDrawingTutor-frontend/static/js/453.d855a71b.chunk.js",
-    "index.html": "/Raghul-PK/DigitalDrawingTutor-frontend/index.html",
-    "main.2b897839.css.map": "/Raghul-PK/DigitalDrawingTutor-frontend/static/css/main.2b897839.css.map",
-    "main.5cbe87d2.js.map": "/Raghul-PK/DigitalDrawingTutor-frontend/static/js/main.5cbe87d2.js.map",
-    "453.d855a71b.chunk.js.map": "/Raghul-PK/DigitalDrawingTutor-frontend/static/js/453.d855a71b.chunk.js.map"
+    "main.css": "/Raghul-PK/DigitalDrawingTutor-frontend/src/index.js/static/css/main.2b897839.css",
+    "main.js": "/Raghul-PK/DigitalDrawingTutor-frontend/src/index.js/static/js/main.d965d6e6.js",
+    "static/js/453.d855a71b.chunk.js": "/Raghul-PK/DigitalDrawingTutor-frontend/src/index.js/static/js/453.d855a71b.chunk.js",
+    "index.html": "/Raghul-PK/DigitalDrawingTutor-frontend/src/index.js/index.html",
+    "main.2b897839.css.map": "/Raghul-PK/DigitalDrawingTutor-frontend/src/index.js/static/css/main.2b897839.css.map",
+    "main.d965d6e6.js.map": "/Raghul-PK/DigitalDrawingTutor-frontend/src/index.js/static/js/main.d965d6e6.js.map",
+    "453.d855a71b.chunk.js.map": "/Raghul-PK/DigitalDrawingTutor-frontend/src/index.js/static/js/453.d855a71b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2b897839.css",
-    "static/js/main.5cbe87d2.js"
+    "static/js/main.d965d6e6.js"
   ]
 }
